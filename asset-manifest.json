@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/linear-equation-solver/static/css/main.969b083d.css",
+    "main.js": "/linear-equation-solver/static/js/main.578c06f2.js",
+    "static/js/453.b21ccc9a.chunk.js": "/linear-equation-solver/static/js/453.b21ccc9a.chunk.js",
+    "index.html": "/linear-equation-solver/index.html",
+    "main.969b083d.css.map": "/linear-equation-solver/static/css/main.969b083d.css.map",
+    "main.578c06f2.js.map": "/linear-equation-solver/static/js/main.578c06f2.js.map",
+    "453.b21ccc9a.chunk.js.map": "/linear-equation-solver/static/js/453.b21ccc9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.969b083d.css",
+    "static/js/main.578c06f2.js"
+  ]
+}
