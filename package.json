@@ -1,6 +1,6 @@
 {
-  "homepage": "https://yozen0405.github.io/bs-cal",
-  "name": "bs-cal",
+  "homepage": "https://yozen0405.github.io/linear-equation-solver",
+  "name": "linear-equation-solver",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
